@@ -1,8 +1,8 @@
 const bedrock = require('bedrock-protocol');
 
 const CONFIG = {
-  host: 'YOUR_SERVER_IP',  // YAHAN IP DAALO
-  port: 19132,
+  host: 'Aryanahfsg.aternos.me',  // YAHAN IP DAALO
+  port:55027,
   username: 'AFKBot_24_7',
   version: 'YOUR_VERSION', // YAHAN VERSION DAALO
 };
