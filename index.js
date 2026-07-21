@@ -4,7 +4,7 @@ const CONFIG = {
   host: 'Aryanahfsg.aternos.me',  // YAHAN IP DAALO
   port:55027,
   username: 'AFKBot_24_7',
-  version: '1.26.33.2', // YAHAN VERSION DAALO
+  version: '26.33', // YAHAN VERSION DAALO
 };
 
 let client = null;
